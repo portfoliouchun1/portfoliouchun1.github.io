@@ -1,4 +1,16 @@
 [
+
+  {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.portfoliouchun1.twa",
+    "sha256_cert_fingerprints": [
+      "59:75:64:D9:EC:D3:C7:57:47:30:40:A8:C2:9B:A3:31:EA:94:37:A3:33:38:43:6F:80:8C:AE:E0:00:40:62:04"
+    ]
+  }
+},
+
   {
     "relation": [
       "delegate_permission/common.handle_all_urls"
