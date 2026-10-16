@@ -1,80 +1,19 @@
 [
-
   {
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.portfoliouchun1.twa",
-    "sha256_cert_fingerprints": [
-      "59:75:64:D9:EC:D3:C7:57:47:30:40:A8:C2:9B:A3:31:EA:94:37:A3:33:38:43:6F:80:8C:AE:E0:00:40:62:04"
-    ]
-  }
-},
-
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
+    "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
       "package_name": "io.github.portfoliouchun1.twa",
       "sha256_cert_fingerprints": [
-        "A7:D0:88:94:7A:2C:D9:E9:6E:A7:51:56:9C:C7:00:37:D6:CF:DD:21:99:E9:F3:28:E5:4B:B9:C7:16:85:9E:DA"
+        "59:75:64:D9:EC:D3:C7:57:47:30:40:A8:C2:9B:A3:31:EA:94:37:A3:33:38:43:6F:80:8C:AE:E0:00:40:62:04",
+        "A7:D0:88:94:7A:2C:D9:E9:6E:A7:51:56:9C:C7:00:37:D6:CF:DD:21:99:E9:F3:28:E5:4B:B9:C7:16:85:9E:DA",
+        "F1:38:36:95:8C:73:A5:1E:3B:2C:29:7C:6A:A5:74:55:FF:5A:A4:AC:88:7D:4B:53:38:FE:E8:A3:9C:03:FA:CB",
+        "95:2E:B0:A4:9A:86:A2:F4:89:08:51:E0:2B:53:57:2A:66:88:8A:A5:45:26:E0:13:04:11:88:68:54:21:E4:15",
+        "2E:95:9E:7E:D0:4E:64:6C:3A:3B:42:EE:4F:68:C7:5E:32:86:DD:E0:58:A4:5C:CD:32:9C:E6:EE:43:84:DA:34",
+        "33:9A:43:9B:10:88:F7:2D:21:E8:10:D5:59:08:66:B1:4E:81:DA:6F:C3:86:AC:BD:F4:B4:47:3E:AC:06:82:79"
       ]
     }
-  },
-  {"relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.portfoliouchun1.twa",
-    "sha256_cert_fingerprints": [
-      "F1:38:36:95:8C:73:A5:1E:3B:2C:29:7C:6A:A5:74:55:FF:5A:A4:AC:88:7D:4B:53:38:FE:E8:A3:9C:03:FA:CB"
-    ]
   }
-},
 
-{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.portfoliouchun1.twa",
-    "sha256_cert_fingerprints": [
-      "95:2E:B0:A4:9A:86:A2:F4:89:08:51:E0:2B:53:57:2A:66:88:8A:A5:45:26:E0:13:04:11:88:68:54:21:E4:15"
-    ]
-  }
-},
-
-{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.portfoliouchun1.twa",
-    "sha256_cert_fingerprints": [
-      "2E:95:9E:7E:D0:4E:64:6C:3A:3B:42:EE:4F:68:C7:5E:32:86:DD:E0:58:A4:5C:CD:32:9C:E6:EE:43:84:DA:34"
-    ]
-  }
-},
-{"relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.portfoliouchun1.twa",
-    "sha256_cert_fingerprints": [
-      "33:9A:43:9B:10:88:F7:2D:21:E8:10:D5:59:08:66:B1:4E:81:DA:6F:C3:86:AC:BD:F4:B4:47:3E:AC:06:82:79"
-    ]
-  }
-},
-
-{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.portfoliouchun1.twa",
-    "sha256_cert_fingerprints": [
-      "95:2E:B0:A4:9A:86:A2:F4:89:08:51:E0:2B:53:57:2A:66:88:8A:A5:45:26:E0:13:04:11:88:68:54:21:E4:15"
-    ]
-  }
-}
-
-
-
+  
 ]
